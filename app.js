@@ -1,1 +1,1 @@
-angular.module('myapp', ["firebase"]);
+angular.module('myapp', [""]);
